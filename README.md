@@ -1,2 +1,2 @@
 # fictional-guacamole
-Repositorio prueba para proyecto Unity Trabajo Especial de Grado
+Repositorio de prueba para proyecto en Unity para el Trabajo Especial de Grado
